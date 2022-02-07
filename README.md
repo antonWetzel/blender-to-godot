@@ -28,7 +28,7 @@ There is no noticeable speed difference between versions, because all calculatio
 
 ## Limitations
 
-Instances of the imported file are not updated, until the scene is reopened.
+Instances of the imported file are not updated until the scene is reopened.
 
 ## Inner Workings
 
