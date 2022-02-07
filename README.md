@@ -1,6 +1,6 @@
 # Blender to Godot
 
-Importer for \*.blend files.
+Importer for \*.blend files for Godot 3.4.
 
 ## Requirements
 
@@ -33,3 +33,7 @@ Instances of the imported file are not updated until the scene is reopened.
 ## Inner Workings
 
 The Blender file (\*.blend) is converted to a glTF 2.0 file (\*.glb) and then to a native Godot scene (\*.scn). The glTF file is deleted afterwards.
+
+## Alternatives
+
+https://github.com/V-Sekai/godot-blender
